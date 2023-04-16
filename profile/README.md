@@ -1,4 +1,4 @@
-![Open Source at Weggo Community](https://github.com/Weggosp/.github/tree/blob/v1.0/images/weggo-community-profile.png) 
+![Open Source at Weggo Community](https://github.com/Weggosp/.github/blob/v1.0/images/weggo-community-profile.png) 
 
 ## Get Involved
 
