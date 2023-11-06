@@ -5,7 +5,7 @@
 Right now, open communities are building amazing software together, and there are excellent "good first issue" opportunities, if you're looking to get involved.Develops and digitizes the world's top camper community.
 
 * [Explore more about Weggo](https://weggo.es)
-* [Explore more about Weggo Solutions](https://solutions.weggo.es)
+* [Explore more about SoftCamp](https://softcamp.eu)
 
 Visit [projects.globodain.com](https://opensource.globodain.com) to learn more!
 
